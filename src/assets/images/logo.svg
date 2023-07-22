@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="426 319 366 131" height="131px" width="366px" version="1.1">
+	<g>
+		<g transform="translate(243.08125000000007 0)">
+			<g transform="translate(0 0)">
+				<g transform="translate(0 320.176) translate(185 0.46399999999999864) scale(2) translate(-421.57981 49.536)">
+					<polygon points="105.81823,124.77647 94.18177,124.77647 76.72709,75.224 88.36355,75.224" transform="translate(344.85272 -124.76)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></polygon>
+					<polygon points="94.18177,124.77647 105.81823,124.77647 123.27291,75.224 111.63645,75.224 " transform="translate(344.85272 -124.76)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></polygon>
+					<polygon points="94.18172,124.77647 105.81818,124.77647 99.99995,108.259 " transform="translate(344.85272 -124.76)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></polygon>
+				</g>
+				<g transform="translate(0 320.176) translate(272.975 29.840000000000003) scale(2) translate(-465.56731 34.848)">
+					<path d="M99.99976,117.92154c-9.82063,0-17.81027-7.98965-17.81027-17.81027s7.98965-17.81027,17.81027-17.81027 c9.8211,0,17.81075,7.98965,17.81075,17.81027S109.82086,117.92154,99.99976,117.92154z M99.99976,92.96775 c-3.93895,0-7.14352,3.20457-7.14352,7.14352c0,3.93896,3.20457,7.14352,7.14352,7.14352c3.93942,0,7.144-3.20457,7.144-7.14352 C107.14376,96.17232,103.93919,92.96775,99.99976,92.96775z" transform="translate(383.37782 -117.149)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></path>
+					<rect x="107.14376" y="100.11127" class="c3" width="10.66675" height="17.05174" transform="translate(383.37782 -117.149)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></rect>
+					<path d="M117.81051,100.11127h-10.66675v16.3034C113.41559,113.65553,117.81051,107.39086,117.81051,100.11127z" transform="translate(383.37782 -117.149)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></path>
+				</g>
+				<g transform="translate(0 320.176) translate(347.87076 31.28) scale(2) translate(-503.01519 34.128)">
+					<polygon points="89.70474,131.00403 100.8559,131.00403 117.21203,83.03773 106.06087,83.03773" transform="translate(420.22722 -117.16573)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></polygon>
+					<polygon points="82.78797,83.03773 93.93913,83.03773 105.57558,117.163 94.42442,117.163" transform="translate(420.22722 -117.16573)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></polygon>
+					<polygon points="94.42443,117.16301 105.57556,117.16301 100,100.81203 " transform="translate(420.22722 -117.16573)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></polygon>
+				</g>
+				<g transform="translate(0 320.176) translate(419.7875 29.840000000000003) scale(2) translate(-538.97356 34.848)">
+					<path d="M99.99953,117.92154c-9.82015,0-17.8098-7.98965-17.8098-17.81027s7.98965-17.81027,17.8098-17.81027 c9.8211,0,17.81075,7.98965,17.81075,17.81027S109.82063,117.92154,99.99953,117.92154z M99.99953,92.96775 c-3.93848,0-7.14305,3.20457-7.14305,7.14352c0,3.93896,3.20457,7.14352,7.14305,7.14352c3.93942,0,7.144-3.20457,7.144-7.14352 C107.14352,96.17232,103.93895,92.96775,99.99953,92.96775z" transform="translate(456.78383 -117.149)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></path>
+				</g>
+				<g transform="translate(0 320.176) translate(501.8494999999999 29.840000000000003) scale(2) translate(-580.00456 34.848)">
+					<path d="M106.55359,92.96777c0.57574,0,1.14679,0.07147,1.69598,0.2121l2.64587-10.33344 c-1.4129-0.36176-2.87408-0.54547-4.34186-0.54547c-9.62134,0-17.44904,7.82776-17.44904,17.44904H99.7713 C99.7713,96.01038,102.81396,92.96777,106.55359,92.96777z" transform="translate(490.90002 -117.14896)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></path>
+					<rect x="89.10455" y="83.03774" width="10.66675" height="34.12527" transform="translate(490.90002 -117.14896)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></rect>
+					<path d="M99.7713,99.75V83.67329C93.50912,86.32512,89.10455,92.53285,89.10455,99.75" transform="translate(490.90002 -117.14896)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#041b2b" stroke="#041b2b"></path>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
