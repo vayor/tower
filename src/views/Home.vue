@@ -1,7 +1,17 @@
 <template>
     <div class="flex flex-col min-h-screen">
-        <div class="flex-none bg-teal-500">1</div>
+        <Header />
         <div class="grow bg-teal-800">2</div>
-        <div class="flex-none bg-teal-500">3</div>
+        <Footer />
     </div>
 </template>
+
+<script>
+import Header from "@/components/Header.vue"
+import Footer from "@/components/Footer.vue"
+
+export default {
+    name: "Home",
+    components: { Header, Footer }
+}
+</script>
